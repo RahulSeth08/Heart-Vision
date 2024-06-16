@@ -8,4 +8,3 @@
 ![dlwdj_page-0008](https://github.com/Rositasikarwar/Heart-Disease/assets/91609480/1ec77759-e6af-4254-b503-70142ecfffe6)
 ![dlwdj_page-0009](https://github.com/Rositasikarwar/Heart-Disease/assets/91609480/7934437a-b621-4e36-a705-492c45a819bd)
 ![dlwdj_page-0010](https://github.com/Rositasikarwar/Heart-Disease/assets/91609480/2d1d9b4f-e406-4502-a36c-4922b6a3012a)
-
